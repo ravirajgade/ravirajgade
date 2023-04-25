@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @ravirajgade
-- 👀 I’m interested in Java,SQL,J2EE and Hibernate
-- 🌱 I’m currently learning Hibernate
